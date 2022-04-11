@@ -1,0 +1,8 @@
+mi 
+historia 
+con 
+platzi
+
+Naci en Guayaquil Sur pero me cambie al Norte 
+
+Mañana nos enfocaremos en aprender mas de Git 
