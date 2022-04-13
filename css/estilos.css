@@ -9,11 +9,24 @@ body {
 
 #container {
     width: 70%;
-    padding: 1em;
     text-align: left;
     border: 1px solid #000;
     margin: 0 auto;
 }
+#cabecera {
+    background: darkblue;
+    font-size: 24px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    padding: 1em;
+}
+
+#cabecera span {
+    color: rgb(1, 226, 251);
+    font-size: 18px;
+    padding-left: 15px;
+}
+
 
 #container h1 {
     font-size: 20px;
